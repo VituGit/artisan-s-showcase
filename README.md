@@ -32,7 +32,7 @@
 
 ## 🎯 Visão Geral
 
-O **ARTISAN SHOWCASE** é uma plataforma web moderna desenvolvida para artesãos apresentarem seus produtos e serviços de forma profissional e atrativa. O projeto foi construído com foco em **conversão via WhatsApp**, oferecendo uma experiência otimizada para dispositivos móveis com design em tons naturais e marrons.
+O **ARTISAN SHOWCASE** é uma plataforma web moderna desenvolvida para artesãos apresentarem seus produtos e serviços de forma profissional e atrativa. O projeto foi construído com foco em **conversão via WhatsApp**, oferecendo uma experiência otimizada para dispositivos móveis com design editaveis.
 
 ### 🎨 Motivação e Objetivos
 
@@ -41,13 +41,6 @@ O **ARTISAN SHOWCASE** é uma plataforma web moderna desenvolvida para artesãos
 - Garantir performance excelente mesmo em conexões lentas
 - Oferecer uma solução personalizável através de landing pages individuais por ateliê
 
-### 📸 Screenshots
-
-![Home](/docs/screen-home.png)
-*Página inicial com apresentação do artesão e produtos em destaque*
-
-![Catálogo](/docs/screen-catalog.png)
-*Catálogo de produtos com categorias e lazy-loading de imagens*
 
 ### 📅 Informações do Projeto
 
