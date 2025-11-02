@@ -559,11 +559,6 @@ furnished to do so, subject to the following conditions:
 - [Unsplash](https://unsplash.com) - Fotos de alta qualidade (quando aplicável)
 - [Pixabay](https://pixabay.com) - Imagens livres de direitos autorais
 
-### Fontes
-
-- [Google Fonts](https://fonts.google.com) - Tipografia web
-- Fonte principal: **(informar quando disponível)**
-
 ---
 
 <div align="center">
